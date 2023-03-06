@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo-app-Tintu-.git/static/css/main.bc6f993c.css",
+    "main.js": "/Todo-app-Tintu-.git/static/js/main.02f66d71.js",
+    "index.html": "/Todo-app-Tintu-.git/index.html",
+    "main.bc6f993c.css.map": "/Todo-app-Tintu-.git/static/css/main.bc6f993c.css.map",
+    "main.02f66d71.js.map": "/Todo-app-Tintu-.git/static/js/main.02f66d71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc6f993c.css",
+    "static/js/main.02f66d71.js"
+  ]
+}
